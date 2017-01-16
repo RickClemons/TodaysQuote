@@ -12,6 +12,7 @@
 		5608406B1E27E92C00D6CC88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 560840691E27E92C00D6CC88 /* Main.storyboard */; };
 		5608406D1E27E92C00D6CC88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5608406C1E27E92C00D6CC88 /* Assets.xcassets */; };
 		560840701E27E92C00D6CC88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5608406E1E27E92C00D6CC88 /* LaunchScreen.storyboard */; };
+		560840781E2C676900D6CC88 /* b85fa7ab5577fc838ac4b931537b3e7b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 560840771E2C676900D6CC88 /* b85fa7ab5577fc838ac4b931537b3e7b.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5608406C1E27E92C00D6CC88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5608406F1E27E92C00D6CC88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		560840711E27E92C00D6CC88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		560840771E2C676900D6CC88 /* b85fa7ab5577fc838ac4b931537b3e7b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = b85fa7ab5577fc838ac4b931537b3e7b.jpg; path = ../../../../Downloads/b85fa7ab5577fc838ac4b931537b3e7b.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				560840691E27E92C00D6CC88 /* Main.storyboard */,
 				5608406C1E27E92C00D6CC88 /* Assets.xcassets */,
 				5608406E1E27E92C00D6CC88 /* LaunchScreen.storyboard */,
+				560840771E2C676900D6CC88 /* b85fa7ab5577fc838ac4b931537b3e7b.jpg */,
 				560840711E27E92C00D6CC88 /* Info.plist */,
 			);
 			path = Clemons_TodaysQuote;
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				560840781E2C676900D6CC88 /* b85fa7ab5577fc838ac4b931537b3e7b.jpg in Resources */,
 				560840701E27E92C00D6CC88 /* LaunchScreen.storyboard in Resources */,
 				5608406D1E27E92C00D6CC88 /* Assets.xcassets in Resources */,
 				5608406B1E27E92C00D6CC88 /* Main.storyboard in Resources */,
